@@ -12,7 +12,7 @@ class Test(unittest.TestCase):
     #     expected = "FOO"
     #     self.assertEqual(output, expected)
 
-    def test_case0(self):
+    def test_case0(self,solution):
         """
         Testcase 0
         """
